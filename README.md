@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Mickey-Oduro-Kwarteng
-- 👀 I’m interested in Codeing , Reading books and Basketball
+- 👀 I’m interested in Codeing , Reading books
+-  I'm a Frontend developer with expertise in React
 - 🌱 I’m currently learning Software Engineering at Ghana Communication Technology
 - 💞️ I’m seeking opportunities for internships or freelance work in software development
 - 📫 How to reach me OduroKwartengmickey@gmail.com 
