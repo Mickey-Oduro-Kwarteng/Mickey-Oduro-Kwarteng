@@ -1,4 +1,4 @@
  -Hi, I’m Mickey-Oduro-Kwarteng
 - I’m interested in Codeing , Reading books
 - I'm a Frontend developer with expertise in React
- -Looking into the future I'm entusiatic about exploring the oppotunities in AI/ML
+-Looking into the future I'm entusiatic about exploring the oppotunities in AI/ML
