@@ -1,6 +1,6 @@
  -Hi, I’m Mickey-Oduro-Kwarteng
 - I’m interested in Codeing , Reading books, and Chess
-- I'm a Frontend developer with expertise in React
+- I'm a Fullstack developer with expertise in React
 - Looking into the future I'm enthusiatic about exploring the oppotunities in AI and how it transform industries years to come
 - Looking to connect with like minded people
 - Follow my Journey
