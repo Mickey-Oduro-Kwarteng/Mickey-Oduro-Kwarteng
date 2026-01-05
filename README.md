@@ -1,4 +1,4 @@
-- Hello, I’m Mickey Oduro.
+- Hello, I’m Mickey.
 - I’m interested in Codeing and Reading books.
 - I'm a Fullstack developer with expertise in React.
 - Looking into the future I'm enthusiatic about exploring the opportunities in AI and machine learning  and how it transform industries years to come.
