@@ -1,5 +1,4 @@
 - Hello, I’m Mickey.
 - I’m interested in Codeing and Reading books.
 - I'm a Fullstack developer .
-- Looking into the future I'm enthusiatic about exploring the opportunities in AI and machine learning  and how it can transform industries years to come.
 - Looking to connect with like minded people.
