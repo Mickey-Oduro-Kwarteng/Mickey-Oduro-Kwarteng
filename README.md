@@ -1,4 +1,4 @@
 - Hello, I’m Mickey.
 - I’m interested in Codeing and Reading books.
-- I'm a Fullstack developer .
+- I'm a Fullstack developer ...
 - Looking to connect with like minded people.
